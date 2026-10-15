@@ -1,0 +1,29 @@
+.navbar{
+background-color: white;
+    
+}
+
+.navbar-brand{
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.navbar-nav        .nav-link{
+    color: black;
+    margin-right: 1rem;
+    margin-left: 200ox;
+}
+
+.carousel{
+    margin-top: 56px;
+}
+
+carousel-item{
+    font-weight: bold;
+    font-size: 3rem;
+}
+
+carousel-item{
+    font-weight: bold;
+    font-size: 3rem;
+}

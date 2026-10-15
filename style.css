@@ -1,0 +1,33 @@
+.navbar{
+    background-color: black;
+    position:sticky;
+    top:0;
+    z-index: 1000;
+}
+
+.navbar .nav-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+}
+
+#brand{
+    color: white;
+    font-size: 30px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.nav-links
+
+.hero{
+    background-image: url('../images/hero.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
